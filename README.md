@@ -40,8 +40,6 @@ const menu = {
   }
 };
 
-
----
 ```
 
 ### 📦 Example Output
@@ -60,5 +58,3 @@ Today's Meal is chicken for $9!
 - Basic Node.js script execution
 
 
-- Array `push()` method
-- Joining arrays into strings and converting to uppercase
